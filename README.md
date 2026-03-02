@@ -36,7 +36,7 @@ Key variables include:
 * Competition distance
 * Holiday indicators
 * Customer counts
-* Date information
+* Date
 
 The dataset combines transactional sales data with store-level attributes to enable both behavioural and operational analysis.
 
@@ -134,13 +134,10 @@ Segmenting stores before modelling improved forecasting accuracy and interpretab
 
 # Tools and Technologies
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib / Seaborn
-Machine Learning
-Exploratory Data Analysis
+* Python: Pandas, NumPy, Scikit-learn
+* Matplotlib / Seaborn
+* Machine Learning
+* Exploratory Data Analysis
 
 ---
 
@@ -189,12 +186,4 @@ Possible extensions of this work include:
 * hyperparameter optimisation
 * deployment as an automated forecasting pipeline
 
----
 
-# Author
-
-Viet Cuong Duong
-MSc Business Analytics – University of Manchester
-
-Focus areas:
-Data Analytics | Machine Learning | Financial & Business Analysis
