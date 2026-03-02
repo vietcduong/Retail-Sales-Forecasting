@@ -169,11 +169,11 @@ Examples may include:
 
 # What This Project Demonstrates
 
-• Data cleaning and feature engineering
-• Exploratory data analysis
-• Machine learning modelling
-• Business insight generation
-• Communicating analytical results clearly
+* Data cleaning and feature engineering
+* Exploratory data analysis
+* Machine learning modelling
+* Business insight generation
+* Communication of analytical results
 
 ---
 
