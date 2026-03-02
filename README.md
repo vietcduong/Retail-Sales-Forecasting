@@ -1,4 +1,4 @@
-Retail Sales Forecasting Using Machine Learning
+**Retail Sales Forecasting Using Machine Learning**
 Overview
 
 This project analyses historical sales data from 1,115 retail drug stores in Germany to forecast daily sales for a six-week horizon. The objective was to identify key sales drivers and develop predictive models to support data-driven retail decision making.
