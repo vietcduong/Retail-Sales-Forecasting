@@ -63,7 +63,7 @@ Feature engineering was used to capture patterns such as:
 
 ---
 
-# 2. Exploratory Data Analysis
+## 2. Exploratory Data Analysis
 
 EDA was used to uncover patterns in demand and store performance.
 
@@ -78,7 +78,7 @@ Visualisation techniques were used to understand variation across stores and tim
 
 ---
 
-# 3. Store Segmentation
+## 3. Store Segmentation
 
 Clustering techniques were applied to group stores with similar behaviour.
 
@@ -92,7 +92,7 @@ Four distinct store clusters were identified based on sales dynamics and operati
 
 ---
 
-# 4. Predictive Modelling
+## 4. Predictive Modelling
 
 Two modelling approaches were developed and evaluated.
 
