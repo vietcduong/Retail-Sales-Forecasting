@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses historical retail sales data to understand key drivers of store performance and to build predictive models capable of forecasting future sales. The work was completed as part of my MSc in Business Analytics at the University of Manchester.
+This project analyses historical retail sales data to understand key drivers of store performance and to build predictive models capable of forecasting future sales.
 
 The objective was to combine exploratory data analysis, statistical modelling, and machine learning to generate insights that could support operational and strategic retail decisions.
 
