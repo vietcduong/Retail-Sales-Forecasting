@@ -24,6 +24,27 @@ The goal of this project was to identify the most important drivers of sales and
 
 ---
 
+
+# Key Skills Demonstrated
+
+* Data cleaning and feature engineering
+* Exploratory data analysis
+* Machine learning modelling
+* Business insight generation
+* Data visualisation
+* Communication of analytical results
+
+---
+
+# Tools and Technologies
+
+* Python: Pandas, NumPy, Scikit-learn
+* Matplotlib / Seaborn
+* Machine Learning
+* Exploratory Data Analysis
+
+---
+
 # Dataset
 
 The analysis uses a retail dataset covering **1,115 stores** with daily sales observations.
@@ -39,6 +60,19 @@ Key variables include:
 * Date
 
 The dataset combines transactional sales data with store-level attributes to enable both behavioural and operational analysis.
+
+---
+
+# Repository Structure
+
+```
+retail-sales-forecasting
+│
+├── data                # dataset used for analysis
+├── notebooks           # analysis and modelling notebooks
+├── report              # full academic report
+└── images              # visualisations used in this project
+```
 
 ---
 
@@ -141,35 +175,14 @@ Forecasted sales were projected along with actual sales for sample stores:
 
 ---
 
-# Tools and Technologies
+# Business Recommendations
+Based on the analysis:
 
-* Python: Pandas, NumPy, Scikit-learn
-* Matplotlib / Seaborn
-* Machine Learning
-* Exploratory Data Analysis
+1. Optimise promotional timing: Promotions significantly influence sales spikes.
 
----
+2. Improve inventory planning: Forecasting models can support demand-driven stock allocation.
 
-# Repository Structure
-
-```
-retail-sales-forecasting
-│
-├── data                # dataset used for analysis
-├── notebooks           # analysis and modelling notebooks
-├── report              # full academic report
-└── images              # visualisations used in this project
-```
-
----
-
-# What This Project Demonstrates
-
-* Data cleaning and feature engineering
-* Exploratory data analysis
-* Machine learning modelling
-* Business insight generation
-* Communication of analytical results
+3. Use data-driven decision making: Retailers can leverage predictive analytics to improve operational efficiency.
 
 ---
 
