@@ -163,19 +163,6 @@ retail-sales-forecasting
 
 ---
 
-# Example Visualisations
-
-(Add exported charts here)
-
-Examples may include:
-
-* sales trends
-* promotion impact
-* cluster visualisation
-* model performance
-
----
-
 # What This Project Demonstrates
 
 * Data cleaning and feature engineering
