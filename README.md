@@ -76,7 +76,7 @@ Key findings:
 
 Visualisation techniques were used to understand variation across stores and time.
 
-Example:
+Example: Sales Trend graph
 
 ![Sales Trend](images/sales_trend.png)
 ---
