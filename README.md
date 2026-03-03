@@ -76,7 +76,8 @@ Key findings:
 
 Visualisation techniques were used to understand variation across stores and time.
 
-Example: Sales Trend
+Example:
+
 ![Sales Trend](images/sales_trend.png)
 ---
 
@@ -91,6 +92,7 @@ This allowed:
 * better forecasting accuracy
 
 Four distinct store clusters were identified based on sales dynamics and operational characteristics, following the assessment of clustering techniques through the Silhouette score:
+
 ![Clustering Scores](images/clustering_scores.png)
 
 ---
@@ -134,6 +136,7 @@ Important drivers of retail sales include:
 Segmenting stores before modelling improved forecasting accuracy and interpretability. 
 
 Forecasted sales were projected along with actual sales for sample stores:
+
 ![Forecasted Sales](images/forecasted_sales.png)
 
 ---
